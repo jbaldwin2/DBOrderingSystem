@@ -9,9 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Menu Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+       <h2>Welcome to the Food Advice Application</h2>
+        <p><a href="form.html">Click here to get some recommendations!</a></p>
     </body>
 </html>
